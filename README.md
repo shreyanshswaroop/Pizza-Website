@@ -1,3 +1,6 @@
+I developed a delightful pizza-themed website using HTML and CSS, showcasing my skills in crafting visually appealing and responsive designs.
+Feel free to check out my work and connect with me to discuss web development or pizza!
+
 # Project Structure
 
 pizza webiste.html: The main HTML file that serves as the entry point of the project.
