@@ -1,8 +1,6 @@
-# Pizza-Website
-
 # Project Structure
 
-index.html: The main HTML file that serves as the entry point of the project.
+pizza webiste.html: The main HTML file that serves as the entry point of the project.
 styles.css: The CSS file containing all the styling rules.
 images/: Folder for image assets used in the project.
 fonts/: Folder for custom fonts, if any.
